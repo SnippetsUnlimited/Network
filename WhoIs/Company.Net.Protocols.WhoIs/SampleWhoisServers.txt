@@ -1,0 +1,2 @@
+﻿whois.apnic.net
+whois.iana.org
